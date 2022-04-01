@@ -1,0 +1,35 @@
+h1{
+    color: red;
+}
+h2{
+    background-color: aliceblue;
+    color: blue;
+}
+h3{
+    background-color: blueviolet;
+    color: chartreuse;
+}
+h4  {
+    background-color: black;
+    color: aliceblue;
+}
+#heading-title{
+color: cyan;
+}
+.tien{
+    color: brown;
+    text-decoration: underline;
+}
+#line .title{
+    text-decoration: underline;
+}
+#line2 .title{
+    font-style: italic;
+}
+#line h3{
+    color: rgb(30, 255, 41);
+}
+.cho{
+    font-size: 36px;
+    font-style: italic;
+}
